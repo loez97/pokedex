@@ -28,5 +28,5 @@ Uma Pokédex interativa que permite buscar Pokémons pelo nome ou número, exibi
    ```
 3. Abra o arquivo `index.html` em um navegador.
 
-   
+## Autor
 Desenvolvido por Luiz Gonzaga
