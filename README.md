@@ -2,12 +2,6 @@
 
 Uma Pokédex interativa que permite buscar Pokémons pelo nome ou número, exibindo informações básicas e sprites animadas.
 
-## Tecnologias Utilizadas
-
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- [PokéAPI](https://pokeapi.co/) (API para obter informações dos Pokémons)
 
 ## Funcionalidades
 
@@ -16,17 +10,9 @@ Uma Pokédex interativa que permite buscar Pokémons pelo nome ou número, exibi
 - Exibir imagem animada do Pokémon selecionado.
 - Exibir nome e número do Pokémon.
 
-## Como Rodar o Projeto
+## Tecnologias Utilizadas
 
-1. Clone este repositório:
-   ```sh
-   git clone https://github.com/loez97/pokedex.git
-   ```
-2. Acesse o diretório do projeto:
-   ```sh
-   cd pokedex
-   ```
-3. Abra o arquivo `index.html` em um navegador.
-
-## Autor
-Desenvolvido por Luiz Gonzaga
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- [PokéAPI](https://pokeapi.co/) (API para obter informações dos Pokémons)
